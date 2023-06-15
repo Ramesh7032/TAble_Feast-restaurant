@@ -1,0 +1,114 @@
+.main1{
+    height: 100%;
+    width: 100%;
+    padding-bottom: 80px;
+    position: sticky;
+    top: 0;
+    
+    
+}
+
+.main2{
+    height:auto;
+    width: 100%;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+    background: #ece4e4;
+
+}
+.header1{
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    padding-top: 0;
+    font-size:35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    
+   
+}
+
+
+.btn{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color:cornflowerblue;
+    font-weight:400;
+    cursor: pointer;
+    color: white;
+    border-color: rgb(99, 99, 234);
+    border-radius: 5px;
+    align-items: center;
+    
+    
+    
+
+}
+.btn1{
+   margin-left: 40%;
+   margin-right: 8%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    height: 90px;
+}
+
+.main3{
+    text-align: center;
+    font-weight:400;
+    
+}
+.main4{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 8px;
+    
+}
+.header2{
+    border: 3px solid green;
+    width: 35px;
+    text-align: center;
+    cursor: pointer;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 4px;
+}
+.main5{
+    
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+
+.header3{
+    
+    font-weight: 600;
+}
+.buttons{
+    width: 100px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 8px;
+    background-color: bisque;
+    cursor: pointer;
+   
+}
+.select{
+     display: flex;
+    justify-content: space-between;
+    width: 30%;
+    padding-top: 20px;
+}
+.ramesh{
+    padding-left: 40px;
+    color: rgb(18, 18, 197);
+    height: auto;
+}

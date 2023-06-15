@@ -1,0 +1,33 @@
+.order0{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    color:brown;
+}
+.order{
+    
+    height: auto;
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 80%;
+    margin: auto;
+    padding-top: 55px;
+    
+}
+.order1{
+    border: 2px solid #000;
+    padding: 20px;
+    margin: 20px;
+    height: auto;
+    width: 320px;
+    border-radius: 15px;
+    
+}
+
+
+.order1 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(42, 65, 165);
+}
